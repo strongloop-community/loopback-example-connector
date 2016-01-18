@@ -9,4 +9,4 @@ below:
 
 Connector|Branch
 :--|:--
-SOAP|
+SOAP|https://github.com/strongloop/loopback-example-connector/tree/soap
