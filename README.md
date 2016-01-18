@@ -9,4 +9,5 @@ below:
 
 Connector|Branch
 :--|:--
+Remote|https://github.com/strongloop/loopback-example-connector/tree/remote
 SOAP|https://github.com/strongloop/loopback-example-connector/tree/soap
