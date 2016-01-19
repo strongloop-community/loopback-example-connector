@@ -9,11 +9,6 @@ point in time.
 
 LoopBack connector examples.
 
-## Getting started
-
-Switch to a branch to view the corresponding connector example in the table
-below:
-
 Connector|Branch
 :--|:--
 Remote|https://github.com/strongloop/loopback-example-connector/tree/remote
