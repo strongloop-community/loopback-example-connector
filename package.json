@@ -1,0 +1,41 @@
+{
+  "name": "loopback-example-remote",
+  "version": "1.0.0",
+  "description": "This is a very simple example of using the LoopBack [remote connector](http://docs.strongloop.com/display/LB/Remote+connector), [loopback-connector-remote](https://github.com/strongloop/loopback-connector-remote).",
+  "main": "server/server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "postinstall": "npm i client/",
+    "test": "mocha -R spec test",
+    "pretest": "jshint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/loopback-example-remote.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongloop/loopback-example-remote/issues"
+  },
+  "homepage": "https://github.com/strongloop/loopback-example-remote",
+  "dependencies": {
+    "async": "^0.9.0",
+    "compression": "^1.0.3",
+    "errorhandler": "^1.1.1",
+    "loopback": "^2.8.0",
+    "loopback-boot": "^2.4.0",
+    "loopback-component-explorer": "^2.1.0",
+    "loopback-datasource-juggler": "^2.7.0",
+    "serve-favicon": "^2.0.1",
+    "supertest": "^1.1.0"
+  },
+  "optionalDependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "jshint": "^2.5.6"
+  }
+}

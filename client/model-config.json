@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ]
+  },
+  "Person": {
+    "dataSource": "remoteDS"
+  },
+  "Customer": {
+    "dataSource": "remoteDS"
+  }
+}
