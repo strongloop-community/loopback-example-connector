@@ -1,0 +1,18 @@
+{
+  "name": "Magazine",
+  "base": "PersistedModel",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "coffeeShops": {
+      "type": [
+        "object"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

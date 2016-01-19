@@ -1,0 +1,21 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "CoffeeShopService": {
+    "name": "CoffeeShopService",
+    "connector": "rest",
+    "operations": [
+      {
+        "template": {
+          "method": "GET",
+          "url": "http://localhost:3001/api/CoffeeShops"
+        },
+        "functions": {
+          "find": []
+        }
+      }
+    ]
+  }
+}

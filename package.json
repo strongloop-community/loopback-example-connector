@@ -1,0 +1,27 @@
+{
+  "name": "loopback-example-rest-connector",
+  "version": "1.0.0",
+  "description": "LoopBack REST connector example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongloop/loopback-example-rest-connector.git"
+  },
+  "keywords": [
+    "LoopBack",
+    "REST",
+    "connector"
+  ],
+  "author": "Simon Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongloop/loopback-example-rest-connector/issues"
+  },
+  "homepage": "https://github.com/strongloop/loopback-example-rest-connector#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
