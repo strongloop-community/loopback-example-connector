@@ -10,4 +10,4 @@ SOAP|https://github.com/strongloop/loopback-example-connector/tree/soap
 
 ---
 
-[More Loopback examples](https://github.com/strongloop/loopback-example)
+[More LoopBack examples](https://github.com/strongloop/loopback-example)
