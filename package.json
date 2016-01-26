@@ -1,0 +1,33 @@
+{
+  "name": "loopback-example-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stock-ws.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongloop/loopback-example-connector.git"
+  },
+  "keywords": [
+    "connector",
+    "example",
+    "loopback",
+    "soap"
+  ],
+  "author": "StrongLoop <callback@strongloop.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongloop/loopback-example-connector/issues"
+  },
+  "homepage": "https://github.com/strongloop/loopback-example-connector#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "loopback": "^2.26.2",
+    "loopback-connector-soap": "^2.3.0",
+    "loopback-datasource-juggler": "^2.44.0"
+  }
+}

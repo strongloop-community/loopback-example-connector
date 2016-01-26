@@ -7,7 +7,7 @@ app.set('restApiRoot', '/api');
 
 var ds = loopback.createDataSource('soap',
   {
-    connector: require('../index'),
+    connector: require('loopback-connector-soap'),
     remotingEnabled: true,
     // wsdl: 'http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL' // The url to WSDL
     wsdl: path.join(__dirname, './weather.wsdl')

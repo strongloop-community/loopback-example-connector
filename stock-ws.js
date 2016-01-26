@@ -2,7 +2,7 @@ var loopback = require('loopback');
 
 var ds = loopback.createDataSource('soap',
   {
-    connector: require('../index'),
+    connector: require('loopback-connector-soap'),
     wsdl: 'http://www.webservicex.net/stockquote.asmx?WSDL', // The url to WSDL
     url: 'http://www.webservicex.net/stockquote.asmx', // The service endpoint
 

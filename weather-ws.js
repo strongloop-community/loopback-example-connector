@@ -2,7 +2,7 @@ var loopback = require('loopback');
 
 var ds = loopback.createDataSource('soap',
   {
-    connector: require('../index'),
+    connector: require('loopback-connector-soap'),
     wsdl: 'http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL' // The url to WSDL
   });
 
