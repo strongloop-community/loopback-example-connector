@@ -1,6 +1,6 @@
 # loopback-example-connector
 
-LoopBack connector examples.
+Remote, REST, and SOAP connector examples for LoopBack.
 
 Connector|Branch
 :--|:--
