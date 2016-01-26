@@ -20,4 +20,4 @@ node weather-ws.js
 
 ---
 
-https://github.com/strongloop/loopback-example
+[More Loopback examples](https://github.com/strongloop/loopback-example)
