@@ -1,10 +1,3 @@
-# WORK IN PROGRESS
-
-This repo is still in the works. The contents may or not be up to date at this
-point in time.
-
----
-
 # loopback-example-connector
 
 LoopBack connector examples.
