@@ -26,7 +26,7 @@ To expose REST APIs to proxy the SOAP web services, run:
 node weather-ws.js
 ```
 
-then browse to http://localhost:3000/explorer
+then browse to [http://localhost:3000/explorer](http://localhost:3000/explorer)
 
 ---
 
