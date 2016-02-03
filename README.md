@@ -58,4 +58,4 @@ The idea is to use [`find`](https://github.com/strongloop/loopback-example-rest-
 
 ---
 
-[Back to top](https://github.com/strongloop/loopback-example-rest-connector#loopback-example-rest-connector)
+[More LoopBack examples](https://github.com/strongloop/loopback-example)
