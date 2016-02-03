@@ -76,3 +76,7 @@ Called a custom method (myMethod) as a logged in user
 Logged out and unset the acces token for future invocations
 Got error (Authorization Required) when trying to call method without auth
 ```
+
+---
+
+[More LoopBack examples](https://github.com/strongloop/loopback-example)
