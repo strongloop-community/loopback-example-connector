@@ -1,6 +1,6 @@
 {
   "name": "Magazine",
-  "base": "PersistedModel",
+  "base": "Model",
   "properties": {
     "name": {
       "type": "string"
