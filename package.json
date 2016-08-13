@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "stock-ws.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/strongloop/loopback-example-connector.git"
