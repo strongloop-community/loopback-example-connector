@@ -16,7 +16,7 @@ this REST API.
 ## Running the app
 
 ```
-$ git clone https://github.com/strongloop/loopback-example-connector.git
+$ git clone https://github.com/strongloop-community/loopback-example-connector.git
 $ cd loopback-example-connector
 $ git checkout rest
 $ cd external-server
