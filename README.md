@@ -1,6 +1,6 @@
 [strongloop-website]: http://strongloop.com/
 
-# loopback-example-rest-connector
+# loopback-example-connector (REST)
 
 - [Overview](#Overview)
 - [Running the app](#running-the-app)
