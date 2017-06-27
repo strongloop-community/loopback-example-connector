@@ -23,8 +23,8 @@
     "mocha": "^2.3.4"
   },
   "dependencies": {
-    "loopback": "^2.26.2",
-    "loopback-connector-soap": "^2.3.0",
-    "loopback-datasource-juggler": "^2.44.0"
+    "loopback": "^3.0.0",
+    "loopback-connector-soap": "^3.0.1",
+    "loopback-datasource-juggler": "^3.0.0"
   }
 }
