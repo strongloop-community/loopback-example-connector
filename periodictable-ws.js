@@ -1,4 +1,6 @@
 var loopback = require('loopback');
+app = loopback();
+ds = app.datasources['soapDS'];
 
 var ds = loopback.createDataSource('soap',
   {

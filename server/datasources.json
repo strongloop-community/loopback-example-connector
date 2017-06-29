@@ -1,0 +1,21 @@
+{
+  "soapDS": {
+    "url": "http://www.webservicex.net/periodictable.asmx",
+    "name": "soapDS",
+    "wsdl": "http://www.webservicex.net/periodictable.asmx?WSDL",
+    "remotingEnabled": true,
+    "operations": {
+      "getAtomicWeight": {
+        "service": "periodictable",
+        "port": "periodictableSoap",
+        "operation": "GetAtomicWeight"
+      },
+      "getAtomicNumber": {
+        "service": "periodictable",
+        "port": "periodictableSoap",
+        "operation": "GetAtomicNumber"
+      }
+    },
+    "connector": "soap"
+  }
+}
